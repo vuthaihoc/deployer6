@@ -69,8 +69,8 @@ $autoload = [
 ];
 
 $includes = [
-    $deployFilePath . '/vendor/deployer/deployer',
-    __DIR__ . '/../../../deployer/deployer',
+    $deployFilePath . '/vendor/vuthaihoc/deployer',
+    __DIR__ . '/../../../vuthaihoc/deployer',
     __DIR__ . '/../'
 ];
 
